@@ -1,0 +1,15 @@
+*{
+    background-color: black;
+    color: white;
+}
+.wieghtguide{
+    margin: 10%;
+
+}
+
+button{
+    height: 20px;
+    width: 100px;
+    margin: auto;
+    border: solid white 2px;
+}
